@@ -28,6 +28,9 @@ PROCESS-NAME,baidunetdisk.exe
 # Xbox
 URL-REGEX,assets\d+\.xboxlive\.(com|cn)
 
+DOMAIN-SUFFIX,4ksj.com
+DOMAIN-SUFFIX,yinfans.me
+
 # BT,PT 规则
 
 # BT
